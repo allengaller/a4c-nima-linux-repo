@@ -1,4 +1,4 @@
-The Nima OS - A Ubuntu based distro for programmer.
+Nima OS - A Ubuntu based distro for programmer.
 ===================================================
 
 The Nima OS project.
