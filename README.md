@@ -1,14 +1,18 @@
-Nima OS - A Ubuntu based distro for programmer.
-===================================================
+Nima OS - Linux Distro for Coders.
+==================================
 
-The Nima OS project.
+About
+-----
+Nima(泥马) OS - 屌农专用Linux系统。用泥马OS, 让硬盘充满爱。
 
-泥马OS - 屌农专用系统
-=====================
+Features
+--------
 
-基于4M的tinyOS, 高度定制, 加入bt5的wifi渗透的组件   
-U盘启动, 基情无限.   
-可选预装各种X炮程式.   
-可选预装完整LAMP, Python, Ruby, Go环境.   
+* 基于Ubuntu高度定制, 加入bt5的wifi渗透的组件   
+* U盘启动, 基情无限. 可选预装各种X炮程式.   
+* 可选预装完整LAMP, Python, Ruby, Go环境.
 
-用泥马OS, 让硬盘充满爱.
+Demo
+----
+
+Coming Soon.
